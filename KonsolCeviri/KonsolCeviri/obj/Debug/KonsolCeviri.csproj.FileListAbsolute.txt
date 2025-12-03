@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\bin\Debug\KonsolCeviri.exe.config
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\bin\Debug\KonsolCeviri.exe
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\bin\Debug\KonsolCeviri.pdb
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\obj\Debug\KonsolCeviri.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\obj\Debug\KonsolCeviri.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\obj\Debug\KonsolCe.A05C5485.Up2Date
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\obj\Debug\KonsolCeviri.exe
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\obj\Debug\KonsolCeviri.pdb
+C:\Users\hp\Desktop\KonsolCeviri\KonsolCeviri\obj\Debug\KonsolCeviri.exe.config
